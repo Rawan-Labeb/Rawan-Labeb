@@ -19,10 +19,15 @@
 
 ---
 
+
+
 ### 📫 Contact Me
 
-- 📫 Reach me at: **rawanwaellabeb@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/rawanlabeb](https://www.linkedin.com/in/rawanlabeb/)
+<p align="center">
+  <a href="mailto:rawanwaellabeb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/rawanlabeb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Rawan-labeb" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -75,15 +80,23 @@
 - PR Member: IEEE Mans Student Branch, Mega Team, Goc Team  
 - Front-End Member: IEEE Mans Student Branch
 
+
 ---
 
 ### 📌 Projects
 
-- 🔹 HalkTalk (Graduation Project)  
-- 🔹 Homeniture - Ecommerce Project  
-- 🔹 MEAN Stack Project  
-- 🔹 Foundations of UX Design / Principles of UX/UI Design Projects  
+Here are some of the key projects I've worked on:
 
+- 🎓 **HackTalk** — *Graduation Project: VR platform managed by a web interface*  
+  🔗 [https://github.com/Rawan-Labeb/HalkTalk]
+
+- 🛍️ **Homeniture** — *E-commerce project with full-stack implementation using Angular & .NET Core*  
+  🔗 [https://github.com/Rawan-Labeb/Homeniture-Ecommerce-Project-]
+
+- 🌐 **MEAN Stack Project** — *Full-stack web app using MongoDB, Express, Angular, and Node.js*  
+  🔗 [https://github.com/Rawan-Labeb/MEAN-Stack-Project]
+
+  
 ---
 
 ### 📊 GitHub Stats
