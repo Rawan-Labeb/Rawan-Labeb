@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rawan Wael Labeb</h1>
-<h3 align="center">Full Stack .NET Developer | Building Scalable & Data-Driven Web Applications</h3>
+<h3 align="center">Full Stack  Developer | .NET & ِ Angular Specialiest | ITI Graduted</h3>
 
 ---
 
@@ -16,12 +16,18 @@
 - 🏆 Graduation Project: Hack-Talk [VR Managed by Site] – Grade: Excellent  
 - 🧠 Passionate about clean code, performance optimization, and problem-solving  
 - 🤝 Strong collaborator with a commitment to quality and innovation  
+
+
+---
+###📫 Contact Me
+
 - 📫 Reach me at: **rawanwaellabeb@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/rawanlabeb](https://www.linkedin.com/in/rawanlabeb/)
 
+  
 ---
 
-### 🚀 Skills
+### 🚀 Technologies & Tools
 
 #### 🧠 Programming Concepts
 Object-Oriented Programming (OOP), SOLID Principles, Unit Testing, Design Patterns, Data Structures
