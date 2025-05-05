@@ -12,7 +12,7 @@
 ### 🛠 About Me
 
 - 🔹 ITI 9-Month Graduate – Professional Web Development & BI Track  
-- 🎓 B.Sc. in Computer and Information Science, Grade: Very Good with Honors (85%)  
+- 🎓 B.Sc. in Computer and Information Science
 - 🏆 Graduation Project: Hack-Talk [VR Managed by Site] – Grade: Excellent  
 - 🧠 Passionate about clean code, performance optimization, and problem-solving  
 - 🤝 Strong collaborator with a commitment to quality and innovation  
