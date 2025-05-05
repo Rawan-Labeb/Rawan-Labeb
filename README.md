@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rawan Wael Labeb</h1>
-<h3 align="center">Full Stack  Developer | .NET & ِ Angular Specialiest | ITI Graduted</h3>
+<h3 align="center">Full Stack Developer | .NET & Angular Specialist | ITI Graduate</h3>
 
 ---
 
@@ -17,44 +17,47 @@
 - 🧠 Passionate about clean code, performance optimization, and problem-solving  
 - 🤝 Strong collaborator with a commitment to quality and innovation  
 
-
 ---
-###📫 Contact Me
+
+### 📫 Contact Me
 
 - 📫 Reach me at: **rawanwaellabeb@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/rawanlabeb](https://www.linkedin.com/in/rawanlabeb/)
 
-  
 ---
 
-### 🚀 Technologies & Tools
+### 🚀 Technologies & Tools (with Logos)
 
-#### 🧠 Programming Concepts
-Object-Oriented Programming (OOP), SOLID Principles, Unit Testing, Design Patterns, Data Structures
+<div align="center">
 
-#### 🗄️ Databases
-SQL, T-SQL (SQL Server), MongoDB, MySQL, Oracle
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 
-#### 🎨 Front-End Technologies
-HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind, Angular, React
+  <!-- Front-End -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
-#### 🛠️ Back-End Technologies
-ASP.Net Core MVC, ASP.Net Core Web API, ADO.NET, LINQ, Entity Framework Core, Node.js, Express.js, SignalR
+  <!-- Back-End -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 
-#### 🔁 Source Control & Methodologies
-Git/GitHub, Agile Methodologies
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
 
-#### 🔍 Testing Tools
-Postman, Swagger
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 
-#### 🧪 Programming Languages
-C, C++, C#, JavaScript, TypeScript
-
-#### 📊 Business Intelligence
-Power BI, SSRS, SSIS, SSAS
-
-#### 📈 CRM Solutions
-Microsoft Dynamics CRM
+</div>
 
 ---
 
