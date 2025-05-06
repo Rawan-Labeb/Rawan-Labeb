@@ -63,9 +63,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/> 
 
 <!-- Others (no official icons in devicon, mentioned in text only) -->
-<img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/> 
+<!-- Business Intelligence Tools -->
+<img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/external-flat-juicy-fish/40/external-reporting-data-analytics-flat-flat-juicy-fish.png" title="SSRS" alt="SSRS" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/external-flat-icons-inmotus-design/40/external-data-warehouse-data-analytics-flat-icons-inmotus-design.png" title="SSAS" alt="SSAS" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/external-etl-data-science-flaticons-flat-flat-icons.png" title="SSIS" alt="SSIS" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/api-settings.png" title="Swagger" alt="Swagger" width="40" height="40"/> 
-<img src="https://img.icons8.com/external-outline-juicy-fish/40/external-ssas-data-analytics-outline-outline-juicy-fish.png" title="SSAS" alt="SSAS" width="40" height="40"/> 
 
 </div>
 
