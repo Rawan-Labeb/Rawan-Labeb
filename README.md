@@ -65,8 +65,6 @@
 <!-- Others (no official icons in devicon, mentioned in text only) -->
 <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/> 
 <img src="https://img.icons8.com/fluency/48/api-settings.png" title="Swagger" alt="Swagger" width="40" height="40"/> 
-<img src="https://img.icons8.com/office/40/business-report.png" title="SSRS" alt="SSRS" width="40" height="40"/> 
-<img src="https://img.icons8.com/office/40/data-configuration.png" title="SSIS" alt="SSIS" width="40" height="40"/> 
 <img src="https://img.icons8.com/external-outline-juicy-fish/40/external-ssas-data-analytics-outline-outline-juicy-fish.png" title="SSAS" alt="SSAS" width="40" height="40"/> 
 
 </div>
